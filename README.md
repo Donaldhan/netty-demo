@@ -1,6 +1,6 @@
 # netty_demo
 
-Netty examples note:
+netty examples note:
 
 all test example main entry in the netty.main package.
 except the netty.main.udt&http package,others netty.main.* is base tcp.
