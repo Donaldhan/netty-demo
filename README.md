@@ -13,4 +13,3 @@ http package, simple http server;
 udt package, UDT Byte Stream ,UDT Message Flow, and relate peer,
 care that UDT Byte example can use,but message have some error,
 see #https://github.com/netty/netty/issues/6934.
-
